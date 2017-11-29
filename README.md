@@ -6,7 +6,7 @@ The purpose of this assignment is to learn how to work with a data file and iter
 
 ### Problem Description
 
-This problem is inspired by the book's Problem E11.5 on page 552.
+This problem is inspired by the book's Problem P7.5 on page 355 of the Late Objects book (E11.5 on page 552 of the Early Objects book).
 
 You are going to write a program that gathers statistics on a text file in a way that is similar to word processors which tell you how many characters, words, and lines you have written.
 
