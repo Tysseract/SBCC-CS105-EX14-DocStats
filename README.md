@@ -14,7 +14,7 @@ You are going to write a program that gathers statistics on a text file in a way
 
 There is no code to copy for the assignment. You get to do it all! Don't forget to provide proper Javadoc documentation.
 
-We are going to do this exercise by writing the object that solves the problem first (in a source file called TicketSeller.java) and then testing it using code we write into **DocStats.java**. Using the techniques shown on the web page titled [How to Start Every Project in this Class](http://209.129.49.15:7990/projects/CS105F2016/repos/allan.knight/browse/HowToStartEveryProject.md) to create a source file called **DocStats.java**. This is where your code will go. 
+We are going to do this exercise by writing the object that solves the problem first (in a source file called TicketSeller.java) and then testing it using code we write into **DocStats.java**. Using the techniques shown on the web page titled [How to Start Every Project in this Class](http://209.129.49.15:7990/projects/CS105/repos/allan.knight/browse/HowToStartEveryProject.md) to create a source file called **DocStats.java**. This is where your code will go. 
 
 ### Testing Your Code
 
@@ -45,6 +45,6 @@ To start the process write click your project and select **Team -> Commit...** a
 
 #### Completing the turn-in process
 
-Follow the directions in [How to Turn in Every Project in This Class](http://crowd.cs.sbcc.edu:7990/projects/CS105F2016/repos/allan.knight/browse/HowToTurnInEveryProjectInThisClass.md)
+Follow the directions in [How to Turn in Every Project in This Class](http://209.129.49.15:7990/projects/CS105/repos/allan.knight/browse/HowToTurnInEveryProjectInThisClass.md)
 
 **NOTE** You do not need to anything on Canvas to turn-in your assignment, but your grade will be posted on there so that you may track your progress throughout the term.
