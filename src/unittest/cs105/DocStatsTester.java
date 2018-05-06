@@ -25,10 +25,10 @@ public class DocStatsTester {
 		totalScore = 0;
 
 		PrintWriter out = new PrintWriter("seuss.txt");
-		out.println("One fish");
-		out.println("Two fish");
-		out.println("Red fish");
-		out.println("Blue fish");
+		out.print("One fish\n");
+		out.print("Two fish\n");
+		out.print("Red fish\n");
+		out.print("Blue fish");
 		out.close();		
 	}
 
@@ -73,7 +73,7 @@ public class DocStatsTester {
 		String testDocStr = readFile("seuss.txt");
 		
 		assertEquals(testDocStr, DocStats.readFile("seuss.txt"));
-		assertEquals(37, DocStats.getNumberCharacters(testDocStr));
+		assertEquals(36, DocStats.getNumberCharacters(testDocStr));
 		assertEquals(8, DocStats.getNumberWords(testDocStr));
 		assertEquals(4, DocStats.getNumberLines(testDocStr));
 		
